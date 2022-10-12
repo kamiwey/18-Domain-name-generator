@@ -1,1 +1,17 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+p {
+  font-size: 30px;
+  font-weight: bold;
+  color: darkgrey;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+}
+/* .center {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+} */
